@@ -5,7 +5,7 @@
 Your bot list...
 1. must have a respectable TLD.
    - .tk TLDs are not allowed.
-   - No subdomains (botlist.domain.com)
+   - No subdomains used from non-botlists/free hosting (e.g. Glitch.me)
 2. can **NOT** be hosted on glitch.
 3. should not display all the listed bots on the front page.
 4. must be usable. No broken links/buttons.
