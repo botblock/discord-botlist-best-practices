@@ -3,14 +3,21 @@
 
 ---
 
+Your bot list:
 
-1. Your bot list must have a respectable TLD. (.tk does not count)
-2. Your bot list should not be hosted on glitch domain. (You are allowed to use Glitch as long as its always up and functioning fine)
-3. Your bot list should not display all the listed bots on the front page.
-4. Your bot list must be usable. No broken links/buttons.
-5. Your bot list must have consistent uptime. (Minor downtime for fixing a problem is fine)
+1. Must have a respectable TLD.
+  - Free TLDs such as `.tk` or `.ga` are probibited
+2. Must not be a `[xyz].glitch.me` domain.
+  - Glitch is acceptable if:
+     - Uptime is immaculate
+     - A custom domain name is used (whilst still following point `1`)
+3. Should not display all bots on the homepage.
+4. Must be fully functioning.
+  - No broken links/buttons.
+5. Must have consistent uptime.
+  - Minor downtime for fixing a problem is fine
 
-
+---
 
 If anyone wants to change or add something, please make a pull request.
 
