@@ -5,8 +5,7 @@
 
 Your bot list:
 
-1. Must have a respectable TLD.
-   - Free TLDs such as `.tk` or `.ga` are probibited
+1. Must use a custom domain name with a respectable, paid TLD.
 2. Must not be a `[xyz].glitch.me` domain.
    - Glitch is acceptable if:
       - Uptime is immaculate
