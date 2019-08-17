@@ -14,7 +14,7 @@
 3. be fully functioning.
    - No broken links/buttons.
 4. have consistent uptime.
-   - Minor downtime for fixing a problem is fine
+   - Minor downtime for maintenance or fixing issues is fine
 
 ---
 
@@ -26,14 +26,14 @@
 2. not be hosted on Glitch.
 3. have an API with good documentation.
    - API should support `GET`ting bot information
-      - Uses a JSON body format for data
+      - Sends a JSON body for the response data
    - API should support `POST`ing bot stats
       - Server/guild count
       - Shard support
       - Uses an Authorization header
-      - Uses a JSON body format for data
+      - Accepts a JSON body format for data
 4. respond with correct status codes.
-   - All pages that load correctly should respond with 200
+   - All pages that load correctly should respond with a 2xx status code
    - Not found (404) pages should respond with a 404 status code
    - Any API should also send correct status codes
 
