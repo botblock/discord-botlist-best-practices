@@ -15,7 +15,7 @@
    - No broken links/buttons.
 4. have consistent uptime.
    - Minor downtime for maintenance or fixing issues is fine
-5. Have minimum bot requirements (such as but not limited to, no NSFW outside NSFW channels, respect ratelimites, etc.)
+5. Have minimum bot requirements (such as, no NSFW outside NSFW channels, respect ratelimites, don't respond to other bots, etc.)
 
 ---
 
@@ -24,9 +24,10 @@
 ## Your bot list should:
 
 1. not display all bots on the homepage.
-2. not be hosted on Glitch or any other free host
+2. not be hosted on any other free hosting provider (Glitch, RedHat OpenShift, Heroku, etc.).
 3. be mobile responsive.
-4. have an API with good documentation.
+4. not be paid access only.
+5. have an API with good documentation.
    - API should support `GET`ting bot information
       - Sends a JSON body for the response data
    - API should support `POST`ing bot stats
@@ -34,7 +35,7 @@
       - Shard support
       - Uses an Authorization header
       - Accepts a JSON body format for data
-5. respond with correct status codes.
+6. respond with correct status codes.
    - All pages that load correctly should respond with a 2xx status code
    - Not found (404) pages should respond with a 404 status code
    - Any API should also send correct status codes
