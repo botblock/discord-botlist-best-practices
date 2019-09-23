@@ -16,7 +16,7 @@
 4. have consistent uptime.
    - Minor downtime for maintenance or fixing issues is fine
 5. have minimum bot requirements (such as, no NSFW outside NSFW channels, respect ratelimites, don't respond to other bots, etc.)
-6. should blur NSFW profile pictures.
+6. blur NSFW profile pictures.
 ---
 
 *Bot lists should meet these requirements to be a good bot list.*
