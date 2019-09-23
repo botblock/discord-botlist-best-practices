@@ -15,6 +15,9 @@
    - No broken links/buttons.
 4. have consistent uptime.
    - Minor downtime for maintenance or fixing issues is fine
+5. have bot listing requirements (such as no NSFW outside NSFW channels, respect rate-limits, don't respond to other bots, etc.)
+6. blur NSFW profile pictures.
+7. have a ToS and Privacy page.
 
 ---
 
@@ -23,8 +26,10 @@
 ## Your bot list should:
 
 1. not display all bots on the homepage.
-2. not be hosted on Glitch.
-3. have an API with good documentation.
+2. not be hosted on any free hosting provider.
+3. be mobile friendly.
+4. not be paid access only.
+5. have an API with good documentation.
    - API should support `GET`ting bot information
       - Sends a JSON body for the response data
    - API should support `POST`ing bot stats
@@ -32,7 +37,7 @@
       - Shard support
       - Uses an Authorization header
       - Accepts a JSON body format for data
-4. respond with correct status codes.
+6. respond with correct status codes.
    - All pages that load correctly should respond with a 2xx status code
    - Not found (404) pages should respond with a 404 status code
    - Any API should also send correct status codes
