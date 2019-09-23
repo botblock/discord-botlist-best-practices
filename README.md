@@ -15,7 +15,7 @@
    - No broken links/buttons.
 4. have consistent uptime.
    - Minor downtime for maintenance or fixing issues is fine
-5. have minimum bot requirements (such as, no NSFW outside NSFW channels, respect ratelimites, don't respond to other bots, etc.)
+5. have bot listing requirements (such as, no NSFW outside NSFW channels, respect ratelimites, don't respond to other bots, etc.)
 6. blur NSFW profile pictures.
 ---
 
