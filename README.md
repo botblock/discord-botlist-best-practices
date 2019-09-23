@@ -17,6 +17,7 @@
    - Minor downtime for maintenance or fixing issues is fine
 5. have bot listing requirements (such as, no NSFW outside NSFW channels, respect ratelimites, don't respond to other bots, etc.)
 6. blur NSFW profile pictures.
+
 ---
 
 *Bot lists should meet these requirements to be a good bot list.*
@@ -40,6 +41,7 @@
    - Not found (404) pages should respond with a 404 status code
    - Any API should also send correct status codes
 7. have a ToS and privacy page.
+
 ---
 
 If anyone wants to change or add something, please make a pull request.
