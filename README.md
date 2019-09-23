@@ -17,6 +17,7 @@
    - Minor downtime for maintenance or fixing issues is fine
 5. have bot listing requirements (such as, no NSFW outside NSFW channels, respect ratelimites, don't respond to other bots, etc.)
 6. blur NSFW profile pictures.
+7. have a ToS and Privacy page.
 
 ---
 
@@ -40,7 +41,6 @@
    - All pages that load correctly should respond with a 2xx status code
    - Not found (404) pages should respond with a 404 status code
    - Any API should also send correct status codes
-7. have a ToS and Privacy page.
 
 ---
 
