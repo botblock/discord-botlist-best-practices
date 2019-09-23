@@ -26,7 +26,7 @@
 ## Your bot list should:
 
 1. not display all bots on the homepage.
-2. not be hosted on any free hosting provider (Glitch, RedHat OpenShift, Heroku, etc.).
+2. not be hosted on any free hosting provider.
 3. be mobile friendly.
 4. not be paid access only.
 5. have an API with good documentation.
