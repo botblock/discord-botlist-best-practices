@@ -39,7 +39,7 @@
    - All pages that load correctly should respond with a 2xx status code
    - Not found (404) pages should respond with a 404 status code
    - Any API should also send correct status codes
-7. have a dedicated ToS and privacy page.
+7. have a ToS and privacy page.
 ---
 
 If anyone wants to change or add something, please make a pull request.
