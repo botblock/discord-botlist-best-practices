@@ -7,17 +7,13 @@
 ## Your bot list must:
 
 1. use a custom domain name with a respectable, paid TLD.
-2. not be a `[xyz].glitch.me` domain.
-   - Glitch is acceptable if:
-      - Uptime is immaculate
-      - A custom domain name is used (whilst still following point `1`)
-3. be fully functioning.
+2. be fully functioning.
    - No broken links/buttons.
-4. have consistent uptime.
+3. have consistent uptime.
    - Minor downtime for maintenance or fixing issues is fine
-5. have bot listing requirements (such as no NSFW outside NSFW channels, respect rate-limits, don't respond to other bots, etc.)
-6. blur NSFW profile pictures.
-7. have a ToS and Privacy page.
+4. have bot listing requirements (such as no NSFW outside NSFW channels, respect rate-limits, don't respond to other bots, etc.)
+5. blur NSFW profile pictures.
+6. have a ToS and Privacy page.
 
 ---
 
