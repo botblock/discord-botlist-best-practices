@@ -50,6 +50,6 @@
 
 ---
 
-If anyone wants to change or add something, [please make a pull request](https://github.com/botblock/discord-botlist-best-practices).
+If anyone wants to change or add something, please [make a pull request](https://github.com/botblock/discord-botlist-best-practices).
 
 Inspired by [Discord Bot Best Practices](https://github.com/meew0/discord-bot-best-practices)
