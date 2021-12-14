@@ -6,7 +6,7 @@
 
 ## Your bot list must:
 
-1. use a custom domain name with a respectable, paid TLD (not `.tk`, `.ga` or any free domain provider from freenom or any services like that provide domains for free. For more info read [here](https://www.quora.com/Is-Freenom-a-fraudulent-company-I-registered-free-ccTLD-ga-and-tk-domain-names-and-within-a-few-2-3-days-all-of-the-domains-were-taken-away-and-marked-as-Fraud-without-any-explanation) and the notice to freenom [here](https://www.internetnews.me/wp-content/uploads/2015/09/serad-to-zuurbier-23jun15-en.pdf) (PDF)).
+1. use a custom domain name with a respectable, paid TLD (not `.tk`, `.ga` or any free domain provider from freenom or any services like that provide domains for free. For more info read [here](https://www.quora.com/Is-Freenom-a-fraudulent-company-I-registered-free-ccTLD-ga-and-tk-domain-names-and-within-a-few-2-3-days-all-of-the-domains-were-taken-away-and-marked-as-Fraud-without-any-explanation) and the notice to freenom [here](https://www.internetnews.me/wp-content/uploads/2015/09/serad-to-zuurbier-23jun15-en.pdf) (PDF), also there are many more countless number of resources on google which point these services are fraud).
 2. not be a `[xyz].glitch.me`, `[xyz].repl.co` or any free (sub)domain with free hosting provider.
    - Glitch, Repl, or any other free host is acceptable if:
       - Uptime is immaculate
@@ -18,7 +18,7 @@
 5. have bot listing requirements (such as no NSFW outside NSFW channels, respect rate-limits, don't respond to other bots, etc.)
 6. blur NSFW profile pictures.
 7. have a ToS and Privacy page.
-8. not be a copy of other's bot lists (such as vcodes, sank6, RDL, and others that are open sourced, including lists that are edited or modified from other's lists).
+8. not be a copy of other's bot lists (open sourced lists, including lists that are edited or modified from other's lists).
 
 ---
 
