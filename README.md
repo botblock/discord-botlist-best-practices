@@ -45,7 +45,7 @@
 7. not overuse ads. Ads are okay, but shouldn't influence the browsing experience in a negative way.
 8. have API (and the frontend if possible) ratelimits. (60 requests per minute recommended)
 9. have a way for users to contact the folks operating the site (email, Discord, etc.).
-10. notify users beforehand when your tos or privacy pages are changing.
+10. notify users beforehand when your TOS or privacy policy is changing.
 
 ---
 
