@@ -6,7 +6,7 @@
 
 ## Your bot list must:
 
-1. use a custom domain name with a respectable, paid TLD (not `.tk`, `.ga` or any free domain provider from freenom or any services like that provide domains for free. For more info read [here](https://www.quora.com/Is-Freenom-a-fraudulent-company-I-registered-free-ccTLD-ga-and-tk-domain-names-and-within-a-few-2-3-days-all-of-the-domains-were-taken-away-and-marked-as-Fraud-without-any-explanation) and the notice to freenom [here](https://www.internetnews.me/wp-content/uploads/2015/09/serad-to-zuurbier-23jun15-en.pdf) (PDF), also there are many more countless number of resources on google which point these services are fraud).
+1. use a custom domain name with a respectable, paid TLD.
 2. not be a `[xyz].glitch.me`, `[xyz].repl.co` or any free (sub)domain with free hosting provider.
    - Glitch, Repl, or any other free host is acceptable if:
       - Uptime is immaculate
