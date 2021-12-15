@@ -18,7 +18,6 @@
 5. have bot listing requirements (such as no NSFW outside NSFW channels, respect rate-limits, don't respond to other bots, etc.)
 6. blur NSFW profile pictures.
 7. have a ToS and Privacy page.
-8. credit the original bot list as stated in their readme, and follow their license respectively, if you have used other's open sourced lists instead of making your own from scratch. If you have edited/modified other's copied list, you still need to give proper credits to the original author.
 
 ---
 
