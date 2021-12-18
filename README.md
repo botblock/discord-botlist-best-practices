@@ -7,8 +7,8 @@
 ## Your bot list must:
 
 1. use a custom domain name with a respectable, paid TLD.
-2. not be a `[xyz].glitch.me` domain.
-   - Glitch is acceptable if:
+2. not be a `[xyz].glitch.me`, `[xyz].repl.co` or any free (sub)domain with free hosting provider.
+   - Glitch, Repl, or any other free host is acceptable if:
       - Uptime is immaculate
       - A custom domain name is used (whilst still following point `1`)
 3. be fully functioning.
@@ -41,6 +41,11 @@
    - All pages that load correctly should respond with a 2xx status code
    - Not found (404) pages should respond with a 404 status code
    - Any API should also send correct status codes
+7. not overuse ads. Ads are okay, but shouldn't influence the browsing experience in a negative way.
+8. have API (and the frontend if possible) ratelimits. (60 requests per minute recommended)
+9. have a way for users to contact the folks operating the site (email, Discord, etc.).
+10. notify users beforehand when your TOS or privacy policy is changing.
+11. not be a copy of other's bot lists (open sourced lists, including lists that are edited or modified from other's lists).
 
 ---
 
