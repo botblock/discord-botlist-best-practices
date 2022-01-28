@@ -18,6 +18,9 @@
 5. have bot listing requirements (such as no NSFW outside NSFW channels, respect rate-limits, don't respond to other bots, etc.)
 6. blur NSFW profile pictures.
 7. have a ToS and Privacy page.
+8. have a notice in footer or anywhere easily reachable, stating that your site isn't affiliated with discord.
+9. have support for slash bots (like letting prefix to be not set, let users know whether this bot is slash command only or slash + bot, or bot only, etc.)
+10. not serve broken images, maybe let the broken images get replaced with custom image.
 
 ---
 
@@ -25,9 +28,9 @@
 
 ## Your bot list should:
 
-1. not display all bots on the homepage.
+1. not display all bots on the homepage, the footer should be reachable without loading more and more bots.
 2. not be hosted on any free hosting provider.
-3. be mobile friendly.
+3. be mobile and tablet friendly.
 4. not be paid access only.
 5. have an API with good documentation.
    - API should support `GET`ting bot information
@@ -46,6 +49,20 @@
 9. have a way for users to contact the folks operating the site (email, Discord, etc.).
 10. notify users beforehand when your TOS or privacy policy is changing.
 11. not be a copy of other's bot lists (open sourced lists, including lists that are edited or modified from other's lists).
+12. have a better way of handling errors, instead of showing console errors, show a custom 500 status code page.
+13. load fast enough, and use not a lot of time and/or internet data to load your site for the first time.
+14. have a caching system in place.
+15. not have a custom keybind to stop browser dev tools from loading.
+16. save users from getting xss attacks.
+17. sanitize bot's long description.
+18. allow custom css.
+19. store markdown, render it as html on user's request.
+20. be usable on safari web browsers (both on iOS and Mac), Apple breaks your site on safari most of time, please check it out (maybe via browser stack).
+21. not have NSFW ads, whilst following rule no. 7
+22. not share user sensitive data without user's consent.
+23. have a cookie consent on new visit.
+24. save user from malicious links
+25. should not freeze user's browser and/or operating system.
 
 ---
 
