@@ -16,8 +16,7 @@
 4. have consistent uptime.
    - Minor downtime for maintenance or fixing issues is fine
 5. have bot listing requirements (such as no NSFW outside NSFW channels, respect rate-limits, don't respond to other bots, etc.)
-6. blur NSFW profile pictures.
-7. have a ToS and Privacy page.
+6. have a ToS and Privacy page.
 
 ---
 
