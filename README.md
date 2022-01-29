@@ -18,7 +18,7 @@
 5. have bot listing requirements (such as no NSFW outside NSFW channels, respect rate-limits, don't respond to other bots, etc.)
 6. blur NSFW profile pictures.
 7. have a ToS and Privacy page.
-8. have a notice in footer or anywhere easily reachable, stating that your site isn't affiliated with discord.
+8. make it clear that you are not affiliated with Discord.
 9. have support for slash bots (like letting prefix to be not set, let users know whether this bot is slash command only or slash + bot, or bot only, etc.)
 10. not serve broken images, maybe let the broken images get replaced with custom image.
 
