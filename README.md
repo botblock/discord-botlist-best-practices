@@ -48,7 +48,7 @@
 9. have a way for users to contact the folks operating the site (email, Discord, etc.).
 10. notify users beforehand when your TOS or privacy policy is changing.
 11. not be a copy of other's bot lists (open sourced lists, including lists that are edited or modified from other's lists).
-12. have a better way of handling errors, instead of showing console errors, show a custom 500 status code page.
+12. cleanly handle errors that occur client and server-side.
 13. load fast enough, and use not a lot of time and/or internet data to load your site for the first time.
 14. have a caching system in place.
 15. not have a custom keybind to stop browser dev tools from loading.
