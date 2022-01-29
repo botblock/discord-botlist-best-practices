@@ -54,7 +54,7 @@
 16. sanitize inputs, and protect against XSS and other malicious content.
 18. allow custom css.
 19. store markdown, render it as html on user's request.
-20. be usable on safari web browsers (both on iOS and Mac), Apple breaks your site on safari most of time, please check it out (maybe via browser stack).
+20. support [all major browsers across all major devices](https://browserslist.dev/?q=ZGVmYXVsdHM%3D).
 21. not have NSFW ads, whilst following rule no. 7
 22. not share user sensitive data without user's consent.
 23. have a cookie consent on new visit.
