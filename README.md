@@ -19,7 +19,7 @@
 6. blur NSFW profile pictures.
 7. have a ToS and Privacy page.
 8. make it clear that you are not affiliated with Discord.
-9. have support for slash bots (like letting prefix to be not set, let users know whether this bot is slash command only or slash + bot, or bot only, etc.)
+9. have support for applications using application (slash) commands as well as conventional bots.
 10. not serve broken images, maybe let the broken images get replaced with custom image.
 
 ---
