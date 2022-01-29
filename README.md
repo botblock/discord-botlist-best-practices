@@ -52,12 +52,10 @@
 13. load fast enough, and use not a lot of time and/or internet data to load your site for the first time.
 14. have a caching system in place.
 15. sanitize inputs, and protect against XSS and other malicious content.
-16. allow custom css.
-17. store markdown, render it as html on user's request.
-18. support [all major browsers across all major devices](https://browserslist.dev/?q=ZGVmYXVsdHM%3D).
-19. not have NSFW ads, whilst following rule no. 7
-20. not share user sensitive data without user's consent.
-21. have a cookie consent on new visit, if your site uses cookies.
+16. support [all major browsers across all major devices](https://browserslist.dev/?q=ZGVmYXVsdHM%3D).
+17. not have NSFW ads, whilst following rule no. 7
+18. not share user sensitive data without user's consent.
+19. have a cookie consent on new visit, if your site uses cookies.
 
 ---
 
