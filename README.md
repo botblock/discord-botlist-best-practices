@@ -58,7 +58,6 @@
 21. not have NSFW ads, whilst following rule no. 7
 22. not share user sensitive data without user's consent.
 23. have a cookie consent on new visit.
-25. should not freeze user's browser and/or operating system.
 
 ---
 
