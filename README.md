@@ -51,8 +51,7 @@
 12. cleanly handle errors that occur client and server-side.
 13. load fast enough, and use not a lot of time and/or internet data to load your site for the first time.
 14. have a caching system in place.
-16. save users from getting xss attacks.
-17. sanitize bot's long description.
+16. sanitize inputs, and protect against XSS and other malicious content.
 18. allow custom css.
 19. store markdown, render it as html on user's request.
 20. be usable on safari web browsers (both on iOS and Mac), Apple breaks your site on safari most of time, please check it out (maybe via browser stack).
