@@ -56,7 +56,7 @@
 17. not have NSFW ads, whilst following rule no. 7
 18. not share user sensitive data without user's consent.
 19. have a cookie consent on new visit, if your site uses cookies.
-
+20. not add bots automatically without bot owner's consent, unless and only if you state that you added only in order to stop non owners from adding that bot, and you should state that the bot was imported without owner's consent.
 ---
 
 If anyone wants to change or add something, please [make a pull request](https://github.com/botblock/discord-botlist-best-practices).
