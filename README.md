@@ -27,7 +27,7 @@
 
 ## Your bot list should:
 
-1. not display all bots on the homepage, the footer should be reachable without loading more and more bots.
+1. not display all bots on the homepage, no infinite scrolling for the same too.
 2. not be hosted on any free hosting provider.
 3. be mobile and tablet friendly.
 4. not be paid access only.
