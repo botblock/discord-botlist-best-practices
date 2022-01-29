@@ -51,7 +51,6 @@
 12. cleanly handle errors that occur client and server-side.
 13. load fast enough, and use not a lot of time and/or internet data to load your site for the first time.
 14. have a caching system in place.
-15. not have a custom keybind to stop browser dev tools from loading.
 16. save users from getting xss attacks.
 17. sanitize bot's long description.
 18. allow custom css.
